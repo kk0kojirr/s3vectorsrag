@@ -1,0 +1,62 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+
+Parameters:
+  VectorBucketName:
+    Type: String
+    Description: "rename-s3vectors-search"
+  VectorIndexName:
+    Type: String
+    Description: "rename-s3vectors-search"
+
+Resources:
+  S3vectorsSearchApiGateway:
+    Type: "AWS::Serverless::Api"
+    Properties:
+      Name: "s3vectors-search-api"
+      OpenApiVersion: "3.0.0"
+      StageName: "v1"
+
+  S3vectorsSearchFunction:
+    Type: "AWS::Serverless::Function"
+    Properties:
+      CodeUri: "src"
+      Environment:
+        Variables:
+          VECTOR_BUCKET_NAME: !Ref VectorBucketName
+          VECTOR_INDEX_NAME: !Ref VectorIndexName
+      Events:
+        ApiEvents:
+          Type: "Api"
+          Properties:
+            Path: /
+            Method: "POST"
+            RestApiId: !Ref S3vectorsSearchApiGateway
+      FunctionName: "s3vectors-search-function"
+      Handler: "function.handler"
+      Role: !GetAtt S3vectorsSearchFunctionRole.Arn
+      Runtime: "Nodejs22.x"
+      Timeout: 300
+
+  S3vectorsSearchFunctionRole:
+    Type: "AWS::IAM::Role"
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: "Allow"
+            Principal:
+              Service: "lambda.amazonaws.com"
+            Action: "sts:AssumeRole"
+      Policies:
+        - PolicyName: "s3vectors-search-function-policy"
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: "Allow"
+                Action: 
+                  - "bedrock:InvokeModel"
+                  - "s3vectors:GetVectors"
+                  - "s3vectors:QueryVectors"
+                Resource: "*"
+      RoleName: "s3vectors-search-function-role"
