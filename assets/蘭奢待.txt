@@ -1,472 +1,156 @@
-コンテンツにスキップ
-メインメニュー
-メインメニュー
-サイドバーに移動 非表示
-案内
- * メインページ [/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8]
- * コミュニティ・ポータル
-   [/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB]
- * 最近の出来事 [/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B]
- * 新しいページ
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8]
- * 最近の更新
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0]
- * おまかせ表示
-   [/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA]
- * 練習用ページ
-   [/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9]
- * アップロード (ウィキメディア・コモンズ)
-   [//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja]
- * 特別ページ
-   [/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7]
-
-ヘルプ
- * ヘルプ [/wiki/Help:%E7%9B%AE%E6%AC%A1]
- * 利用案内 [/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85]
- * 井戸端 [/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF]
- * お知らせ [/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B]
- * バグの報告 [/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A]
- * ウィキペディアに関するお問い合わせ [/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88]
-
-[/static/images/icons/wikipedia.png] Wikipedia
-[/static/images/mobile/copyright/wikipedia-wordmark-ja.svg]
-[/static/images/mobile/copyright/wikipedia-tagline-ja.svg]
-/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
-検索 [/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2]
-
-検索
-表示
-
-
- * 寄付
-   [https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ja.wikipedia.org&uselang=ja]
- * アカウント作成
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E8%98%AD%E5%A5%A2%E5%BE%85]
- * ログイン
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&returnto=%E8%98%AD%E5%A5%A2%E5%BE%85]
-
-個人用ツール
- * 寄付
-   [https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ja.wikipedia.org&uselang=ja]
- * アカウント作成
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E8%98%AD%E5%A5%A2%E5%BE%85]
- * ログイン
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&returnto=%E8%98%AD%E5%A5%A2%E5%BE%85]
-
-
-目次
-
-サイドバーに移動 非表示
- * ページ先頭
- * 1 概要
- * 2 名称
- * 3 歴史と截香
-   歴史と截香サブセクションを切り替えます
-   * 3.1 足利義満と義教の截香
-   * 3.2 足利義政の截香
-   * 3.3 織田信長の截香
-   * 3.4 明治天皇の截香
- * 4 脚注
-   脚注サブセクションを切り替えます
-   * 4.1 注釈
-   * 4.2 出典
- * 5 参考文献
- * 6 関連項目
- * 7 外部リンク
-
-目次の表示・非表示を切り替え
-
-
-
 蘭奢待
 
-3 個の言語版
- * English [https://en.wikipedia.org/wiki/Ranjatai_(wood)]
- * فارسی
-   [https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%86%D8%AC%D8%A7%D8%AA%D8%A7%DB%8C]
- * 中文 [https://zh.wikipedia.org/wiki/%E8%98%AD%E5%A5%A2%E5%BE%85]
+**蘭奢待**／**蘭麝待**（らんじゃたい）は、正倉院に収蔵されている香木。天下第一の名香と謳われる。
 
-リンクを編集
-[https://www.wikidata.org/wiki/Special:EntityPage/Q11625240#sitelinks-wikipedia]
- * ページ [/wiki/%E8%98%AD%E5%A5%A2%E5%BE%85]
- * ノート
-   [/w/index.php?title=%E3%83%8E%E3%83%BC%E3%83%88:%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&redlink=1]
+正倉院宝物目録での名は**黄熟香**（おうじゅくこう）である。「蘭奢待」という雅称には東・大・寺"の名が隠されている\。
 
-日本語
-
- * 閲覧 [/wiki/%E8%98%AD%E5%A5%A2%E5%BE%85]
- * 編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit]
- * 履歴を表示 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=history]
-
-ツール
-ツール
-サイドバーに移動 非表示
-操作
- * 閲覧 [/wiki/%E8%98%AD%E5%A5%A2%E5%BE%85]
- * 編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit]
- * 履歴を表示 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=history]
-
-全般
- * リンク元
-   [/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E8%98%AD%E5%A5%A2%E5%BE%85]
- * 関連ページの更新状況
-   [/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E8%98%AD%E5%A5%A2%E5%BE%85]
- * ファイルをアップロード [//ja.wikipedia.org/wiki/Wikipedia:ファイルのアップロード]
- * この版への固定リンク [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&oldid=105618055]
- * ページ情報 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=info]
- * このページを引用
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&page=%E8%98%AD%E5%A5%A2%E5%BE%85&id=105618055&wpFormIdentifier=titleform]
- * 短縮URLを取得する
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:UrlShortener&url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E8%2598%25AD%25E5%25A5%25A2%25E5%25BE%2585]
- * QRコードをダウンロード
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:QrCode&url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E8%2598%25AD%25E5%25A5%25A2%25E5%25BE%2585]
-
-印刷/書き出し
- * ブックの新規作成
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&bookcmd=book_creator&referer=%E8%98%AD%E5%A5%A2%E5%BE%85]
- * PDF 形式でダウンロード
-   [/w/index.php?title=%E7%89%B9%E5%88%A5:DownloadAsPdf&page=%E8%98%AD%E5%A5%A2%E5%BE%85&action=show-download-screen]
- * 印刷用バージョン [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&printable=yes]
-
-他のプロジェクト
- * コモンズ [https://commons.wikimedia.org/wiki/Category:Ranjatai]
- * ウィキデータ項目 [https://www.wikidata.org/wiki/Special:EntityPage/Q11625240]
-
-表示
-サイドバーに移動 非表示
-出典: フリー百科事典『ウィキペディア（Wikipedia）』
-
-[//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/RanJyaTai_Shosoin.JPG/330px-RanJyaTai_Shosoin.JPG]/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:RanJyaTai_Shosoin.JPG蘭奢待
-
-蘭奢待／蘭麝待（らんじゃたい）は、正倉院 [/wiki/%E6%AD%A3%E5%80%89%E9%99%A2]に収蔵されている香木
-[/wiki/%E9%A6%99%E6%9C%A8]。天下第一の名香と謳われる。
-
-正倉院宝物目録での名は黄熟香（おうじゅくこう）である。「蘭奢待」という雅称 [/wiki/%E9%9B%85%E7%A7%B0]には東・大・寺
-[/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA]"の名が隠されている[1]。
-
-その香は「古めきしずか」と言われる。全浅香
-[/wiki/%E5%85%A8%E6%B5%85%E9%A6%99]（紅沈香）と並び、権力者にとって重宝された。宝物番号は中倉135[2]。
-
+その香は「古めきしずか」と言われる。全浅香（紅沈香）と並び、権力者にとって重宝された。宝物番号は中倉135\。
 
 概要
+--
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=1]]
+\
 
-長さ156.0cm
-[/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB]、最大径42.5cm、重量11,600g
-[/wiki/%E3%82%B0%E3%83%A9%E3%83%A0]（11.6kg
-[/wiki/%E3%82%AD%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0]）で[2]、不整形な木材
-[/wiki/%E6%9C%A8%E6%9D%90]。内部はほぼ空洞となっている[3]。空洞になっている部分について、幾多の成書に「朽ちてうつろになった」と記されるが[4]、数度の調査を行った薬史学者
-[/wiki/%E8%96%AC%E5%8F%B2%E5%AD%A6]の米田該典は「燃焼時に予期せぬ香りを発しないように余分な部分を切除することは、現在も普通に行われていることで、香気成分が沈着しない部分を積極的に切除したため」としている[3]。昭和30年（1955年
-[/wiki/1955%E5%B9%B4]）の『正倉院薬物』には「外側の樹脂分の多い部分は削り取られてしまって、樹脂分のほとんどない木部だけが残っているように考えられる」と記している[5]。
+長さ156.0cm、最大径42.5cm、重量11,600g（11.6kg）で\、不整形な木材。内部はほぼ空洞となっている\。空洞になっている部分について、幾多の成書に「朽ちてうつろになった」と記されるが\、数度の調査を行った薬史学者の米田該典は「燃焼時に予期せぬ香りを発しないように余分な部分を切除することは、現在も普通に行われていることで、香気成分が沈着しない部分を積極的に切除したため」としている\。昭和30年（1955年）の『正倉院薬物』には「外側の樹脂分の多い部分は削り取られてしまって、樹脂分のほとんどない木部だけが残っているように考えられる」と記している\。
 
-米田該典は、ジンチョウゲ科
-[/wiki/%E3%82%B8%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B2%E7%A7%91]ジンコウジュ属（Aquilaria
-[https://en.wikipedia.org/wiki/Aquilaria]）の植物の樹幹に樹脂
-[/wiki/%E5%A4%A9%E7%84%B6%E6%A8%B9%E8%84%82]や精油
-[/wiki/%E7%B2%BE%E6%B2%B9]が沈積した沈香 [/wiki/%E6%B2%88%E9%A6%99]の一種で、産地としてラオス
-[/wiki/%E3%83%A9%E3%82%AA%E3%82%B9]中部からベトナム
-[/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0]にかけてのインドシナ半島
-[/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B7%E3%83%8A%E5%8D%8A%E5%B3%B6]東部の山岳地帯と推定している[3]。米田該典は「現在でも、そのままでも沈香特有の香りがする」（2000年）とし、正倉院事務所長であった米田雄介
-[/wiki/%E7%B1%B3%E7%94%B0%E9%9B%84%E4%BB%8B]は「顔を近づけるとわずかではあるが芳香を放っている」（1998年）としている[6]。
+米田該典は、ジンチョウゲ科ジンコウジュ属（_Aquilaria_）の植物の樹幹に樹脂や精油が沈積した沈香の一種で、産地としてラオス中部からベトナムにかけてのインドシナ半島東部の山岳地帯と推定している\。米田該典は「現在でも、そのままでも沈香特有の香りがする」（2000年）とし、正倉院事務所長であった米田雄介は「顔を近づけるとわずかではあるが芳香を放っている」（1998年）としている\。
 
 蘭奢待が正倉院に納められた経緯については諸説あるが特定できていない。
 
-
 名称
+--
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=2]]
-[//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Letter_of_ranjatai.png/250px-Letter_of_ranjatai.png]/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Letter_of_ranjatai.png蘭奢待に込められた東大寺
+\
 
-蘭奢待という通称の由来について室町時代 [/wiki/%E5%AE%A4%E7%94%BA%E6%99%82%E4%BB%A3]後期の公家三条西実隆
-[/wiki/%E4%B8%89%E6%9D%A1%E8%A5%BF%E5%AE%9F%E9%9A%86]の日記『実隆公記
-[/wiki/%E5%AE%9F%E9%9A%86%E5%85%AC%E8%A8%98]』には、東大寺
-[/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA]別当
-[/wiki/%E5%88%A5%E5%BD%93]の公恵が手元にあった蘭奢待を後土御門天皇
-[/wiki/%E5%BE%8C%E5%9C%9F%E5%BE%A1%E9%96%80%E5%A4%A9%E7%9A%87]に献上した際の逸話として「この沈香は聖武天皇
-[/wiki/%E8%81%96%E6%AD%A6%E5%A4%A9%E7%9A%87]のもので東大寺と申すべきだが、焚き物であるため縁起が悪い（南都焼討
-[/wiki/%E5%8D%97%E9%83%BD%E7%84%BC%E8%A8%8E]）ので、東大寺という文字を込めて蘭奢待と称する」と記している。この通称をつけた人物について堀池春峰
-[/wiki/%E5%A0%80%E6%B1%A0%E6%98%A5%E5%B3%B0]は足利義政
-[/wiki/%E8%B6%B3%E5%88%A9%E7%BE%A9%E6%94%BF]としたが、本間洋子による『実隆公記』の検討によりこの説は否定されており、命名者は不明である[7]。
+蘭奢待に込められた東大寺
 
-「蘭奢待」の初見について、本間は貞治 [/wiki/%E8%B2%9E%E6%B2%BB]6年（1367年
-[/wiki/1367%E5%B9%B4]）の『新札往来』に記される名香のリストが最も早いと指摘している。また「黄熟香」の初見は建久4年（1193年）の『東大寺勅封蔵開検目録』とされるが、記される寸法から当該の香木は全浅香
-[/wiki/%E5%85%A8%E6%B5%85%E9%A6%99][注釈 1]とする説もある[9]。
+蘭奢待という通称の由来について室町時代後期の公家三条西実隆の日記『実隆公記』には、東大寺別当の公恵が手元にあった蘭奢待を後土御門天皇に献上した際の逸話として「この沈香は聖武天皇のもので東大寺と申すべきだが、焚き物であるため縁起が悪い（南都焼討）ので、東大寺という文字を込めて蘭奢待と称する」と記している。この通称をつけた人物について堀池春峰は足利義政としたが、本間洋子による『実隆公記』の検討によりこの説は否定されており、命名者は不明である\。
 
+「蘭奢待」の初見について、本間は貞治6年（1367年）の『新札往来』に記される名香のリストが最も早いと指摘している。また「黄熟香」の初見は建久4年（1193年）の『東大寺勅封蔵開検目録』とされるが、記される寸法から当該の香木は全浅香\とする説もある\。
 
 歴史と截香
+-----
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=3]]
+\
 
-蘭奢待の伝来について記される史料はない。令和 [/wiki/%E4%BB%A4%E5%92%8C]7年（2025年
-[/wiki/2025%E5%B9%B4]）7月、宮内庁 [/wiki/%E5%AE%AE%E5%86%85%E5%BA%81]正倉院
-[/wiki/%E6%AD%A3%E5%80%89%E9%99%A2]事務所が放射性炭素年代測定法
-[/wiki/%E6%94%BE%E5%B0%84%E6%80%A7%E7%82%AD%E7%B4%A0%E5%B9%B4%E4%BB%A3%E6%B8%AC%E5%AE%9A%E6%B3%95]による調査を行った結果、原木は772
-[/wiki/772%E5%B9%B4]〜885年 [/wiki/885%E5%B9%B4]（宝亀
-[/wiki/%E5%AE%9D%E4%BA%80]3年〜元慶 [/wiki/%E5%85%83%E6%85%B6]9年/仁和
-[/wiki/%E4%BB%81%E5%92%8C]元年）頃に伐採、もしくは倒木したことが分かったと発表した[10]。一説では天平勝宝
-[/wiki/%E5%A4%A9%E5%B9%B3%E5%8B%9D%E5%AE%9D]4年（752年
-[/wiki/752%E5%B9%B4]）の東大寺大仏開眼会
-[/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA%E7%9B%A7%E8%88%8E%E9%82%A3%E4%BB%8F%E5%83%8F#開眼供養]の際に東大寺に納められた可能性も指摘されていたが、この調査で年代が合わないことが判明した[10]。
+蘭奢待の伝来について記される史料はない。令和7年（2025年）7月、宮内庁正倉院事務所が放射性炭素年代測定法による調査を行った結果、原木は772〜885年（宝亀3年〜元慶9年/仁和元年）頃に伐採、もしくは倒木したことが分かったと発表した\。一説では天平勝宝4年（752年）の東大寺大仏開眼会の際に東大寺に納められた可能性も指摘されていたが、この調査で年代が合わないことが判明した\。
 
-和田軍一は羂索院
-[/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA%E6%B3%95%E8%8F%AF%E5%A0%82]の双倉に収蔵されていた宝物が倉の老朽化に伴い永久
-[/wiki/%E6%B0%B8%E4%B9%85_(%E5%85%83%E5%8F%B7)]4年（1116年
-[/wiki/1116%E5%B9%B4]）に勅封倉（正倉院）に移された記録を根拠として、この時に蘭奢待が正倉院に納められたとする。また堀池春峰は延暦
-[/wiki/%E5%BB%B6%E6%9A%A6]24年（805年 [/wiki/805%E5%B9%B4]）に早良親王
-[/wiki/%E6%97%A9%E8%89%AF%E8%A6%AA%E7%8E%8B]の御霊鎮護において用いられた名香を蘭奢待と推定したうえで、同年7月に唐から帰朝した藤原葛野麻呂
-[/wiki/%E8%97%A4%E5%8E%9F%E8%91%9B%E9%87%8E%E9%BA%BB%E5%91%82]が舶載したものとする。ただしいずれの説も推測の範疇を出ない[9]。
+和田軍一は羂索院の双倉に収蔵されていた宝物が倉の老朽化に伴い永久4年（1116年）に勅封倉（正倉院）に移された記録を根拠として、この時に蘭奢待が正倉院に納められたとする。また堀池春峰は延暦24年（805年）に早良親王の御霊鎮護において用いられた名香を蘭奢待と推定したうえで、同年7月に唐から帰朝した藤原葛野麻呂が舶載したものとする。ただしいずれの説も推測の範疇を出ない\。
 
-米田該典は平成 [/wiki/%E5%B9%B3%E6%88%90]9年（1997年
-[/wiki/1997%E5%B9%B4]）の調査で38箇所の截香跡があるとした上で、繰り返し切り取られた跡もみられることから50回くらい切り取られたとしている[11]。これまで足利義満
-[/wiki/%E8%B6%B3%E5%88%A9%E7%BE%A9%E6%BA%80]、足利義教
-[/wiki/%E8%B6%B3%E5%88%A9%E7%BE%A9%E6%95%99]、足利義政
-[/wiki/%E8%B6%B3%E5%88%A9%E7%BE%A9%E6%94%BF]、土岐頼武
-[/wiki/%E5%9C%9F%E5%B2%90%E9%A0%BC%E6%AD%A6][要出典
-[/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8]]、織田信長
-[/wiki/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7]、明治天皇
-[/wiki/%E6%98%8E%E6%B2%BB%E5%A4%A9%E7%9A%87]らが切り取っている。現在、3箇所の切り口に「足利義政拝賜之處」「織田信長拝賜之處」「明治十年依勅切之」の付箋がつけられているが、いずれも明治期のものであり明治以前の切り口については不明である[11]。徳川家康
-[/wiki/%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7]も切り取ったという説があったが[12]、慶長
-[/wiki/%E6%85%B6%E9%95%B7]7年（1602年 [/wiki/1602%E5%B9%B4]）6月10日、東大寺に奉行の本多正純
-[/wiki/%E6%9C%AC%E5%A4%9A%E6%AD%A3%E7%B4%94]と大久保長安
-[/wiki/%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%95%B7%E5%AE%89]を派遣して正倉院宝庫の調査を実施し[13]、蘭奢待の現物の確認こそしたものの、切り取ると不幸があるという言い伝えに基づき切り取りは行わなかった（『当代記』同日条）。同8年2月25日、宝庫は開封して修理が行われている（続々群書類従所収『慶長十九年薬師院実祐記』）[13]。
+米田該典は平成9年（1997年）の調査で38箇所の截香跡があるとした上で、繰り返し切り取られた跡もみられることから50回くらい切り取られたとしている\。これまで足利義満、足利義教、足利義政、@media screen{.mw-parser-output .fix-domain{border-bottom:dashed 1px}}土岐頼武\、織田信長、明治天皇らが切り取っている。現在、3箇所の切り口に「足利義政拝賜之處」「織田信長拝賜之處」「明治十年依勅切之」の付箋がつけられているが、いずれも明治期のものであり明治以前の切り口については不明である\。徳川家康も切り取ったという説があったが\、慶長7年（1602年）6月10日、東大寺に奉行の本多正純と大久保長安を派遣して正倉院宝庫の調査を実施し\、蘭奢待の現物の確認こそしたものの、切り取ると不幸があるという言い伝えに基づき切り取りは行わなかった（『当代記』同日条）。同8年2月25日、宝庫は開封して修理が行われている（続々群書類従所収『慶長十九年薬師院実祐記』）\。
 
+### 足利義満と義教の截香
 
-足利義満と義教の截香
+\
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=4]]
+『満済准后日記』によれば、永享元年（1429年）9月24日に足利義教は東大寺を訪れて受戒を受け、その後に同寺西室で宝物を見たうえで碁石3個と共に「沈（黄熟香）二（二寸ばかり）切、同じく之を召される」と記す。さらに続けて「至徳の時も此の如くか。何様先規に任され了んぬ」と記されているが、これは足利義満が至徳2年（1385年）8月30日に東大寺で受戒し宝物を拝見したとする『至徳二年記』の記述に対応するものとされ、義満が黄熟香を切り取った先例に義教も倣ったと考えられている\。
 
-『満済准后日記 [/wiki/%E6%BA%80%E6%B8%88%E5%87%86%E5%90%8E%E6%97%A5%E8%A8%98]』によれば、永享
-[/wiki/%E6%B0%B8%E4%BA%AB]元年（1429年
-[/wiki/1429%E5%B9%B4]）9月24日に足利義教は東大寺を訪れて受戒を受け、その後に同寺西室で宝物を見たうえで碁石
-[/wiki/%E7%A2%81%E7%9F%B3]3個と共に「沈（黄熟香）二（二寸
-[/wiki/%E5%AF%B8]ばかり）切、同じく之を召される」と記す。さらに続けて「至徳の時も此の如くか。何様先規に任され了んぬ」と記されているが、これは足利義満が至徳
-[/wiki/%E8%87%B3%E5%BE%B3_(%E6%97%A5%E6%9C%AC)]2年（1385年
-[/wiki/1385%E5%B9%B4]）8月30日に東大寺で受戒し宝物を拝見したとする『至徳二年記』の記述に対応するものとされ、義満が黄熟香を切り取った先例に義教も倣ったと考えられている[14]。
+### 足利義政の截香
 
+\
 
-足利義政の截香
+『蔭凉軒日録』によれば、寛正6年（1465年）9月24日に、足利義政が東大寺にて受戒し、西室にて宝物を拝見したとある。さらに『東大寺三倉開封勘例』には「室町殿、当寺にて宝物を御覧、御香を召し上げらる」と記されており、義満、義教の先例に倣っていたことが分かる。この際の詳細として「1寸角を2個切り出して1つを後土御門天皇に献上し、もう一つを義政が受け取る。また5分角を1個切り出し東大寺別当の公恵に献じた」と記されている\。
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=5]]
+### 織田信長の截香
 
-『蔭凉軒日録』によれば、寛正 [/wiki/%E5%AF%9B%E6%AD%A3]6年（1465年
-[/wiki/1465%E5%B9%B4]）9月24日に、足利義政が東大寺にて受戒し、西室にて宝物を拝見したとある。さらに『東大寺三倉開封勘例』には「室町殿、当寺にて宝物を御覧、御香を召し上げらる」と記されており、義満、義教の先例に倣っていたことが分かる。この際の詳細として「1寸角を2個切り出して1つを後土御門天皇
-[/wiki/%E5%BE%8C%E5%9C%9F%E5%BE%A1%E9%96%80%E5%A4%A9%E7%9A%87]に献上し、もう一つを義政が受け取る。また5分角を1個切り出し東大寺別当の公恵に献じた」と記されている[15]。
+\
 
+『天正二年截香記』によれば、天正2年（1574年）3月23日に、織田信長は塙直政と筒井順慶を使者に出し、蘭奢待拝見の希望を伝えた。東大寺は足利家以外に正倉院宝庫の開封例がないとしつつも、信長の内裏修造などに配慮して勅使によって封が解かれれば聞き入れると返答。勅許を得た信長は多聞山城に入り、勅使が到着を待つ。3月28日に正倉院中倉から黄熟香が城に運ばれ、東大寺僧3人の立会のもと、大仏師トンシキが持参した鋸で1寸角2個を切り取る。信長は「1つは正親町天皇に献上し、もう1つは我等が拝領」と述べた\。
 
-織田信長の截香
+信長による截香は横暴なイメージで語られる事が多いが、米田雄介や和田軍一は上記の記述より好意的な評価をしている\。そして、金子拓は東大寺側の記録（上生院浄実『三蔵開封日記』・蓮乗院寅清『寺辺之記』・薬師院実祐『三蔵開封之次第』）を検証したところ、信長は先例を確認した上で切り取りを行い、27日には信長自らが東大寺や春日大社を参詣して謝意を示したことを指摘し、信長の申し入れに当初は東大寺側も反発はあったものの、信長の東大寺に対する配慮により平穏に終わったとしている（特に、上生院浄実は前述の切り取りに立ち会った3人の東大寺僧の1人で、『三蔵開封日記』は『天正二年截香記』の原本であることも検証している）\。
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=6]]
+なお、東山御文庫内には「蘭奢待香開封内奏状案」（勅封三十五函乙-11-15）と呼ばれる文書が伝えられている。この文書は元々、信長の蘭奢待切り取りに先立って空席であった東大寺別当に三条西実枝（実澄）の子を任じた女房奉書とセットになっていたことから、蘭奢待切り取りの許可を求める内奏に対する返事と考えられていた。また、その文章の内容が不満を吐露するものであったため、古くから「信長ノ不法ヲ難詰セラル」（『大日本史料』天正2年3月28日条）と解釈され、長年"正親町天皇が信長の奏請に対する不満を吐露した書状"として理解されてきた。しかし、内奏状は天皇に充てて出される文書であるのに天皇の心境が述べられている矛盾が指摘され、金子拓はこれは女房奉書の受取先であった三条西実枝から正親町天皇に充てられた書状と再解釈した。つまり、この文書の筆者が正親町天皇では無く三条西実枝である以上、不満を吐露したのも天皇ではないことになる。そして、不満の対象も書状の宛先である正親町天皇その人と考えるしか無く、少なくとも"正親町天皇が信長の奏請に対する不満を吐露した書状"ではありえないと結論づけている\。なお、金子の解釈によれば、「不満」の内容は東大寺は皇室の寺院で正倉院の開封には勅使を使わすのが習いであるのに、藤氏長者の二条晴良と藤原氏の氏寺である興福寺が関与しているのを天皇が止めていないことに対する批判ということになる\。
 
-『天正二年截香記』によれば、天正 [/wiki/%E5%A4%A9%E6%AD%A3]2年（1574年
-[/wiki/1574%E5%B9%B4]）3月23日に、織田信長は塙直政 [/wiki/%E5%A1%99%E7%9B%B4%E6%94%BF]と筒井順慶
-[/wiki/%E7%AD%92%E4%BA%95%E9%A0%86%E6%85%B6]を使者に出し、蘭奢待拝見の希望を伝えた。東大寺は足利家以外に正倉院宝庫の開封例がないとしつつも、信長の内裏修造などに配慮して勅使によって封が解かれれば聞き入れると返答。勅許を得た信長は多聞山城
-[/wiki/%E5%A4%9A%E8%81%9E%E5%B1%B1%E5%9F%8E]に入り、勅使が到着を待つ。3月28日に正倉院中倉から黄熟香が城に運ばれ、東大寺僧3人の立会のもと、大仏師トンシキが持参した鋸で1寸角2個を切り取る。信長は「1つは正親町天皇
-[/wiki/%E6%AD%A3%E8%A6%AA%E7%94%BA%E5%A4%A9%E7%9A%87]に献上し、もう1つは我等が拝領」と述べた[16]。
+蘭奢待を切り取った信長は、これを周知する目的で4月3日に茶会を催し、その場で千宗易と津田宗及に蘭奢待を下賜している。また、その他に村井貞勝にも下賜したほか、正親町天皇も九条稙通に下賜している\。
 
-信長による截香は横暴なイメージで語られる事が多いが、米田雄介や和田軍一は上記の記述より好意的な評価をしている[16]。そして、金子拓は東大寺側の記録（上生院浄実『三蔵開封日記』・蓮乗院寅清『寺辺之記』・薬師院実祐『三蔵開封之次第』）を検証したところ、信長は先例を確認した上で切り取りを行い、27日には信長自らが東大寺や春日大社を参詣して謝意を示したことを指摘し、信長の申し入れに当初は東大寺側も反発はあったものの、信長の東大寺に対する配慮により平穏に終わったとしている（特に、上生院浄実は前述の切り取りに立ち会った3人の東大寺僧の1人で、『三蔵開封日記』は『天正二年截香記』の原本であることも検証している）[17]。
+### 明治天皇の截香
 
-なお、東山御文庫
-[/wiki/%E6%9D%B1%E5%B1%B1%E5%BE%A1%E6%96%87%E5%BA%AB]内には「蘭奢待香開封内奏状案」（勅封三十五函乙-11-15）と呼ばれる文書が伝えられている。この文書は元々、信長の蘭奢待切り取りに先立って空席であった東大寺別当に三条西実枝
-[/wiki/%E4%B8%89%E6%9D%A1%E8%A5%BF%E5%AE%9F%E6%9E%9D]（実澄）の子を任じた女房奉書
-[/wiki/%E5%A5%B3%E6%88%BF%E5%A5%89%E6%9B%B8]とセットになっていたことから、蘭奢待切り取りの許可を求める内奏
-[/wiki/%E5%86%85%E5%A5%8F]に対する返事と考えられていた。また、その文章の内容が不満を吐露するものであったため、古くから「信長ノ不法ヲ難詰セラル」（『大日本史料
-[/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%8F%B2%E6%96%99]』天正2年3月28日条）と解釈され、長年"正親町天皇が信長の奏請に対する不満を吐露した書状"として理解されてきた。しかし、内奏状は天皇に充てて出される文書であるのに天皇の心境が述べられている矛盾が指摘され、金子拓はこれは女房奉書の受取先であった三条西実枝から正親町天皇に充てられた書状と再解釈した。つまり、この文書の筆者が正親町天皇では無く三条西実枝である以上、不満を吐露したのも天皇ではないことになる。そして、不満の対象も書状の宛先である正親町天皇その人と考えるしか無く、少なくとも"正親町天皇が信長の奏請に対する不満を吐露した書状"ではありえないと結論づけている[18]。なお、金子の解釈によれば、「不満」の内容は東大寺は皇室の寺院で正倉院の開封には勅使を使わすのが習いであるのに、藤氏長者の二条晴良
-[/wiki/%E4%BA%8C%E6%9D%A1%E6%99%B4%E8%89%AF]と藤原氏の氏寺である興福寺
-[/wiki/%E8%88%88%E7%A6%8F%E5%AF%BA]が関与しているのを天皇が止めていないことに対する批判ということになる[19]。
+\
 
-蘭奢待を切り取った信長は、これを周知する目的で4月3日に茶会を催し、その場で千宗易
-[/wiki/%E5%8D%83%E5%88%A9%E4%BC%91]と津田宗及
-[/wiki/%E6%B4%A5%E7%94%B0%E5%AE%97%E5%8F%8A]に蘭奢待を下賜している。また、その他に村井貞勝
-[/wiki/%E6%9D%91%E4%BA%95%E8%B2%9E%E5%8B%9D]にも下賜したほか、正親町天皇も九条稙通
-[/wiki/%E4%B9%9D%E6%9D%A1%E7%A8%99%E9%80%9A]に下賜している[20]。
-
-
-明治天皇の截香
-
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=7]]
-
-『明治天皇紀 [/wiki/%E6%98%8E%E6%B2%BB%E5%A4%A9%E7%9A%87%E7%B4%80]』には、明治10年（1877年
-[/wiki/1877%E5%B9%B4]）2月9日に奈良行幸の際に正倉院宝物を御覧ののち、内務省
-[/wiki/%E5%86%85%E5%8B%99%E7%9C%81_(%E6%97%A5%E6%9C%AC)]博物館局長の町田久成
-[/wiki/%E7%94%BA%E7%94%B0%E4%B9%85%E6%88%90]に命じて長さ2寸、重さ8.9グラムを切り取り、東大寺東南院
-[/wiki/%E6%9D%B1%E5%8D%97%E9%99%A2_(%E5%A5%88%E8%89%AF%E5%B8%82)]で聞香し「薫煙芳芬として行宮に満ちた」と記録されている。なお、これとは別に明治5年（1872年
-[/wiki/1872%E5%B9%B4]）に蜷川式胤
-[/wiki/%E8%9C%B7%E5%B7%9D%E5%BC%8F%E8%83%A4]と町田久成が正倉院宝物を調査したときの記録『奈良の道筋』によると、「黄熟香一名蘭奢待。少々粉を火に入れたところ、香気軽く清らかにして、誠に微かな香りあり」と記している[21]。
-
+『明治天皇紀』には、明治10年（1877年）2月9日に奈良行幸の際に正倉院宝物を御覧ののち、内務省博物館局長の町田久成に命じて長さ2寸、重さ8.9グラムを切り取り、東大寺東南院で聞香し「薫煙芳芬として行宮に満ちた」と記録されている。なお、これとは別に明治5年（1872年）に蜷川式胤と町田久成が正倉院宝物を調査したときの記録『奈良の道筋』によると、「黄熟香一名蘭奢待。少々粉を火に入れたところ、香気軽く清らかにして、誠に微かな香りあり」と記している\。
 
 脚注
+--
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=8]]
+\
 
+### 注釈
 
-注釈
+\
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=9]]
-[脚注の使い方 [/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91]]
- 1. ^ 『国家珍宝帳
-    [/wiki/%E6%9D%B1%E5%A4%A7%E5%AF%BA%E7%8C%AE%E7%89%A9%E5%B8%B3#国家珍宝帳]』に記される香木。雅名は紅塵。宝物番号は北倉41[8]。
+\
 
+1.  **^** 『国家珍宝帳』に記される香木。雅名は紅塵。宝物番号は北倉41\。
 
-出典
+### 出典
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=10]]
- 1.  ^ “黄熟香 [https://shosoin.kunaicho.go.jp/treasures/?id=0000012162&index=0]”.
-     正倉院. 宮内庁. 2025年7月15日閲覧。
- 2.  ^ a b “第63回正倉院展 出陳宝物リスト
-     [https://www.narahaku.go.jp/exhibition/2011toku/shosoin/2011shosoin_list.pdf]”.
-     奈良国立博物館. p. 1. 2024年3月26日閲覧。
- 3.  ^ a b c 片岡直樹 2020, p. 132-133.
- 4.  ^ 米田該典 2000, p. 32-33.
- 5.  ^ 朝比奈泰彦 [/wiki/%E6%9C%9D%E6%AF%94%E5%A5%88%E6%B3%B0%E5%BD%A6]
-     編『正倉院薬物』植物文献刊行会、1955年12月13日、106頁。doi
-     [/wiki/Doi_(%E8%AD%98%E5%88%A5%E5%AD%90)]:10.11501/1375961
-     [https://doi.org/10.11501%2F1375961]。 
- 6.  ^ 片岡直樹 2020, p. 143-144.
- 7.  ^ 片岡直樹 2020, p. 133-134.
- 8.  ^ 片岡直樹 2020, p. 138-139.
- 9.  ^ a b 片岡直樹 2020, p. 133-135.
- 10. ^ a b 「足利義政や織田信長も切り取った？…天下の名香「蘭奢待」、原木は７７２～８８５年頃に伐採か倒木
-     [https://www.yomiuri.co.jp/culture/20250709-OYT1T50043/]」『読売新聞オンライン』2025年7月9日。2025年7月15日閲覧。
- 11. ^ a b 片岡直樹 2020, p. 135-136.
- 12. ^ 米田雄介 [/wiki/%E7%B1%B3%E7%94%B0%E9%9B%84%E4%BB%8B]『正倉院と日本文化』（吉川弘文館
-     [/wiki/%E5%90%89%E5%B7%9D%E5%BC%98%E6%96%87%E9%A4%A8]、 1998年）p.163
- 13. ^ a b 飯田剛彦「正倉院宝庫修理の歴史と自然災害
-     [https://shosoin.kunaicho.go.jp/api/bulletins/38/pdf/0385089113] (PDF
-     [/wiki/Portable_Document_Format], 1.1 MiB
-     [/wiki/%E3%83%A1%E3%83%93%E3%83%90%E3%82%A4%E3%83%88]) 」（『正倉院紀要』第38号、2016年）
-     p.107、2018年6月15日閲覧
- 14. ^ 片岡直樹 2020, p. 136.
- 15. ^ 片岡直樹 2020, p. 136-137.
- 16. ^ a b 片岡直樹 2020, p. 137-138.
- 17. ^ 金子、2015年、P217-224.
- 18. ^ 金子、2015年、P224-228.
- 19. ^ 金子、2015年、P226-227.
- 20. ^ 谷端昭夫 2010, p. 72.
- 21. ^ 片岡直樹 2020, p. 138.
+\
 
+1.  **^** “黄熟香”. _正倉院_. 宮内庁. 2025年7月15日閲覧。
+2.  ^ _**a**_ _**b**_ “第63回正倉院展 出陳宝物リスト”. 奈良国立博物館. p. 1. 2024年3月26日閲覧。
+3.  ^ _**a**_ _**b**_ _**c**_ 片岡直樹 2020, p. 132-133.
+4.  **^** 米田該典 2000, p. 32-33.
+5.  **^** 朝比奈泰彦 編『正倉院薬物』植物文献刊行会、1955年12月13日、106頁。doi:10.11501/1375961。 
+6.  **^** 片岡直樹 2020, p. 143-144.
+7.  **^** 片岡直樹 2020, p. 133-134.
+8.  **^** 片岡直樹 2020, p. 138-139.
+9.  ^ _**a**_ _**b**_ 片岡直樹 2020, p. 133-135.
+10.  ^ _**a**_ _**b**_ 「足利義政や織田信長も切り取った？…天下の名香「蘭奢待」、原木は７７２～８８５年頃に伐採か倒木」『読売新聞オンライン』2025年7月9日。2025年7月15日閲覧。
+11.  ^ _**a**_ _**b**_ 片岡直樹 2020, p. 135-136.
+12.  **^** 米田雄介『正倉院と日本文化』（吉川弘文館、 1998年）p.163
+13.  ^ _**a**_ _**b**_ 飯田剛彦「正倉院宝庫修理の歴史と自然災害 (PDF, 1.1 MiB) 」（『正倉院紀要』第38号、2016年） p.107、2018年6月15日閲覧
+14.  **^** 片岡直樹 2020, p. 136.
+15.  **^** 片岡直樹 2020, p. 136-137.
+16.  ^ _**a**_ _**b**_ 片岡直樹 2020, p. 137-138.
+17.  **^** 金子、2015年、P217-224.
+18.  **^** 金子、2015年、P224-228.
+19.  **^** 金子、2015年、P226-227.
+20.  **^** 谷端昭夫 2010, p. 72.
+21.  **^** 片岡直樹 2020, p. 138.
 
 参考文献
+----
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=11]]
- * 米田雄介 [/wiki/%E7%B1%B3%E7%94%B0%E9%9B%84%E4%BB%8B]、杉本一樹
-   [/wiki/%E6%9D%89%E6%9C%AC%E4%B8%80%E6%A8%B9]『正倉院美術館ザ・ベストコレクション』講談社
-   [/wiki/%E8%AC%9B%E8%AB%87%E7%A4%BE]、2009年11月、348-351頁。ISBN
-   [/wiki/ISBN] 978-4-06-215887-9
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/978-4-06-215887-9]。 
- * 米田該典「全浅香、黄熟香の科学調査
-   [https://shosoin.kunaicho.go.jp/api/bulletins/22/pdf/0000000085]」『正倉院紀要』第22号、2000年3月、ISSN
-   [/wiki/ISSN] 13431137
-   [https://search.worldcat.org/ja/search?fq=x0:jrnl&q=n2:13431137]、NCID
-   [/wiki/NCID_(%E8%AD%98%E5%88%A5%E5%AD%90)] AA11121840
-   [https://ci.nii.ac.jp/ncid/AA11121840]、国立国会図書館書誌ID
-   [/wiki/%E5%9B%BD%E7%AB%8B%E5%9B%BD%E4%BC%9A%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3]:5696207
-   [//id.ndl.go.jp/bib/5696207]。 
- * 片岡直樹「黄熟香と全浅香」『正倉院宝物の輝き』、里文出版、2020年10月、ISBN [/wiki/ISBN] 978-4-89806-499-3
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/978-4-89806-499-3]。 
- * 角明浩「天正二年の信長による蘭奢待切り取りの再考察―織田権力の大和支配の観点から―」『戦国・織豊期と地方史研究』、岩田書院
-   [/wiki/%E5%B2%A9%E7%94%B0%E6%9B%B8%E9%99%A2]、2020年9月、ISBN
-   [/wiki/ISBN] 978-4-86602-105-8
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/978-4-86602-105-8]。 
- * 金子拓 [/wiki/%E9%87%91%E5%AD%90%E6%8B%93]「織田信長の東大寺正倉院開封と朝廷」『織田信長権力論』、吉川弘文館
-   [/wiki/%E5%90%89%E5%B7%9D%E5%BC%98%E6%96%87%E9%A4%A8]、2015年4月28日、214-258頁、ISBN
-   [/wiki/ISBN] 978-4-642-02925-4
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/978-4-642-02925-4]。 （原論文『国史学』196号、2008年を改稿）
- * 谷端昭夫『日本史のなかの茶道』淡交社、2010年9月。ISBN [/wiki/ISBN] 978-4-473-03668-1
-   [/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/978-4-473-03668-1]。 
+\
 
+*   米田雄介、杉本一樹『正倉院美術館ザ・ベストコレクション』講談社、2009年11月、348-351頁。.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"“""”""‘""’"}.mw-parser-output .citation.cs-ja1 q,.mw-parser-output .citation.cs-ja2 q{quotes:"「""」""『""』"}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .cs1-ws-icon.cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/auto 1em no-repeat;padding-right:1em}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}ISBN 978-4-06-215887-9。 
+*   米田該典「全浅香、黄熟香の科学調査」『正倉院紀要』第22号、2000年3月、ISSN 13431137、NCID AA11121840、国立国会図書館書誌ID:5696207。 
+*   片岡直樹「黄熟香と全浅香」『正倉院宝物の輝き』、里文出版、2020年10月、ISBN 978-4-89806-499-3。 
+*   角明浩「天正二年の信長による蘭奢待切り取りの再考察―織田権力の大和支配の観点から―」『戦国・織豊期と地方史研究』、岩田書院、2020年9月、ISBN 978-4-86602-105-8。 
+*   金子拓「織田信長の東大寺正倉院開封と朝廷」『織田信長権力論』、吉川弘文館、2015年4月28日、214-258頁、ISBN 978-4-642-02925-4。 （原論文『国史学』196号、2008年を改稿）
+*   谷端昭夫『日本史のなかの茶道』淡交社、2010年9月。ISBN 978-4-473-03668-1。 
 
 関連項目
+----
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=12]]
- * 香 [/wiki/%E9%A6%99]
- * 香道 [/wiki/%E9%A6%99%E9%81%93]
- * 高屋城の戦い [/wiki/%E9%AB%98%E5%B1%8B%E5%9F%8E%E3%81%AE%E6%88%A6%E3%81%84]
- * 醴泉 蘭奢待 - この香木を名前の由来とする、玉泉堂酒造
-   [/wiki/%E7%8E%89%E6%B3%89%E5%A0%82%E9%85%92%E9%80%A0]（岐阜県
-   [/wiki/%E5%B2%90%E9%98%9C%E7%9C%8C]養老郡 [/wiki/%E9%A4%8A%E8%80%81%E9%83%A1]養老町
-   [/wiki/%E9%A4%8A%E8%80%81%E7%94%BA]）による日本酒。
- * ランジャタイ [/wiki/%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%BF%E3%82%A4] -
-   この香木をコンビ名の由来とする、グレープカンパニー
-   [/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC]所属のお笑いコンビ
-   [/wiki/%E3%81%8A%E7%AC%91%E3%81%84%E3%82%B3%E3%83%B3%E3%83%93]。
+\
 
+*   香
+*   香道
+*   高屋城の戦い
+*   醴泉 蘭奢待 - この香木を名前の由来とする、玉泉堂酒造（岐阜県養老郡養老町）による日本酒。
+*   ランジャタイ - この香木をコンビ名の由来とする、グレープカンパニー所属のお笑いコンビ。
 
 外部リンク
+-----
 
-[編集 [/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit&section=13]]
-[//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png]
-ウィキメディア・コモンズには、蘭奢待
-[https://commons.wikimedia.org/wiki/Category:Ranjatai?uselang=ja]に関連するカテゴリがあります。
- * 黄熟香 [https://shosoin.kunaicho.go.jp/treasures?id=0000012162&index=0] - 正倉院
- * 『蘭奢待 [//kotobank.jp/word/%E8%98%AD%E5%A5%A2%E5%BE%85]』 - コトバンク
-   [/wiki/%E3%82%B3%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF]
- * 「蘭奢待」天下人の香り 大阪で正倉院フォーラム [https://archive.fo/sml10]
-   読売新聞、2011年9月20日（archive.today [/wiki/Archive.today]）
+\
 
-スタブアイコン
-[//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Meuble_h%C3%A9raldique_Pavot_tig%C3%A9.svg/40px-Meuble_h%C3%A9raldique_Pavot_tig%C3%A9.svg.png]/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Meuble_h%C3%A9raldique_Pavot_tig%C3%A9.svg
+.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}
 
-この項目は、植物 [/wiki/%E6%A4%8D%E7%89%A9]に関連した書きかけの項目
-[/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%83%96]です。この項目を加筆・訂正
-[https://ja.wikipedia.org/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&action=edit]などしてくださる協力者を求めています
-[/wiki/Category:%E6%A4%8D%E7%89%A9%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE]（プロジェクト:植物
-[/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E6%A4%8D%E7%89%A9]／Portal:植物
-[/wiki/Portal:%E6%A4%8D%E7%89%A9]）。
+ウィキメディア・コモンズには、**蘭奢待**に関連するカテゴリがあります。
 
- * 表示 [/wiki/Template:Plant-stub]
- * 編集 [/wiki/%E7%89%B9%E5%88%A5:EditPage/Template:Plant-stub]
+*   黄熟香 - 正倉院
+*   『蘭奢待』 - コトバンク
+*   「蘭奢待」天下人の香り 大阪で正倉院フォーラム 読売新聞、2011年9月20日（archive.today）
 
-[https://ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&usesul3=1]
-「https://ja.wikipedia.org/w/index.php?title=蘭奢待&oldid=105618055
-[https://ja.wikipedia.org/w/index.php?title=蘭奢待&oldid=105618055]」から取得
+.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox{font-size:90%}.mw-parser-output .asbox-note{font-size:90%}.mw-parser-output .asbox .navbar{position:absolute;top:-0.90em;right:1em;display:none}
 
-カテゴリ [/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA]:
- * 正倉院宝物 [/wiki/Category:%E6%AD%A3%E5%80%89%E9%99%A2%E5%AE%9D%E7%89%A9]
- * 著名な木 [/wiki/Category:%E8%91%97%E5%90%8D%E3%81%AA%E6%9C%A8]
- * 香料 [/wiki/Category:%E9%A6%99%E6%96%99]
- * 香 [/wiki/Category:%E9%A6%99]
- * 織田信長 [/wiki/Category:%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7]
+この項目は、植物に関連した**書きかけの項目**です。この項目を加筆・訂正などしてくださる協力者を求めています（プロジェクト:植物／Portal:植物）。
 
-隠しカテゴリ:
- * 出典を必要とする記述のある記事/2021年5月
-   [/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2021%E5%B9%B45%E6%9C%88]
- * すべてのスタブ記事
-   [/wiki/Category:%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E8%A8%98%E4%BA%8B]
- * 植物関連のスタブ項目
-   [/wiki/Category:%E6%A4%8D%E7%89%A9%E9%96%A2%E9%80%A3%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E9%A0%85%E7%9B%AE]
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline-block;word-break:keep-all}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" ·\\a0 ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" |\\a0 ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" -\\a0 ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist-slash dd:after,.mw-parser-output .hlist-slash li:after{content:" /\\a0 ";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist dd dd:first-child:before,.mw-parser-output .hlist dd dt:first-child:before,.mw-parser-output .hlist dd li:first-child:before,.mw-parser-output .hlist dt dd:first-child:before,.mw-parser-output .hlist dt dt:first-child:before,.mw-parser-output .hlist dt li:first-child:before,.mw-parser-output .hlist li dd:first-child:before,.mw-parser-output .hlist li dt:first-child:before,.mw-parser-output .hlist li li:first-child:before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child:after,.mw-parser-output .hlist dd dt:last-child:after,.mw-parser-output .hlist dd li:last-child:after,.mw-parser-output .hlist dt dd:last-child:after,.mw-parser-output .hlist dt dt:last-child:after,.mw-parser-output .hlist dt li:last-child:after,.mw-parser-output .hlist li dd:last-child:after,.mw-parser-output .hlist li dt:last-child:after,.mw-parser-output .hlist li li:last-child:after{content:")\\a0 ";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\\a0 "}.mw-parser-output .navbar{display:inline;font-size:75%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"\"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:110%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:110%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}.mw-parser-output .infobox .navbar{font-size:80%}.mw-parser-output .navbox .navbar{display:block;font-size:80%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}
 
- * 最終更新 2025年7月15日 (火) 13:16 （日時は個人設定
-   [/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering]で未設定ならばUTC
-   [/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82]）。
- * テキストはクリエイティブ・コモンズ 表示-継承ライセンス
-   [https://creativecommons.org/licenses/by-sa/4.0/deed.ja]のもとで利用できます。追加の条件が適用される場合があります。詳細については利用規約
-   [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use]を参照してください。
+*   表示
+*   編集
 
- * プライバシー・ポリシー
-   [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ja]
- * ウィキペディアについて
-   [/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6]
- * 免責事項 [/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85]
- * 行動規範
-   [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct]
- * 開発者 [https://developer.wikimedia.org]
- * 統計 [https://stats.wikimedia.org/#/ja.wikipedia.org]
- * Cookieに関する声明
-   [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement]
- * モバイルビュー
-   [//ja.m.wikipedia.org/w/index.php?title=%E8%98%AD%E5%A5%A2%E5%BE%85&mobileaction=toggle_view_mobile]
-
- * Wikimedia Foundation
-   [/static/images/footer/wikimedia.svg]https://www.wikimedia.org/
- * Powered by MediaWiki
-   [/w/resources/assets/mediawiki_compact.svg]https://www.mediawiki.org/
-
-検索
-
-検索
-目次の表示・非表示を切り替え
-
-蘭奢待
-3 個の言語版 話題を追加
-
+「https://ja.wikipedia.org/w/index.php?title=蘭奢待&oldid=105618055」から取得

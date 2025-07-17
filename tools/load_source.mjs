@@ -1,5 +1,6 @@
 import fs from "fs/promises";
-import { htmlToText } from "html-to-text";
+import TurndownService from "turndown";
+import * as cheerio from "cheerio";
 
 const title = process.env.WIKI_TITLE_NAME;
 const url = `https://ja.wikipedia.org/wiki/${title}`;
@@ -7,13 +8,30 @@ const url = `https://ja.wikipedia.org/wiki/${title}`;
 const response = await fetch(url);
 const html = await response.text();
 
-const text = htmlToText(html, {
-  ignoreHref: true,
-  ignoreImage: true,
-  selectors: [
-    { selector: ".mw-body-content", format: "block" }
-  ]
+const $ = cheerio.load(html);
+const bodyContent = $(".mw-body-content").html();
+
+const turndownService = new TurndownService();
+
+// リンクをテキストだけに
+turndownService.addRule("plainLink", {
+  filter: "a",
+  replacement: function(content) {
+    return content;
+  }
+});
+// 画像を除去
+turndownService.addRule("removeImage", {
+  filter: "img",
+  replacement: function() {
+    return "";
+  }
 });
 
+const markdown = turndownService.turndown(bodyContent);
+
+// さらに [編集 ...] などのノイズを除去
+const cleaned = markdown.replace(/\[[^\[\]\n]{1,100}\]/g, "");
+
 await fs.mkdir("assets", { recursive: true });
-await fs.writeFile(`assets/${title}.txt`, text);
+await fs.writeFile(`assets/${title}.txt`, cleaned);
